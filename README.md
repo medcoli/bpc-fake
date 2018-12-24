@@ -20,5 +20,6 @@ generate the subdo Open a new session Choose number 2 option (Mass
 Submit) Insert your nick, team, and file file is (test.txt) And Submit
 !! Now Just Check http://defacer.id [+] Happy Spammer!
 
-This tool is original sora cyber team, you can visit it at: http:
+This tool is original sora cyber team, you can visit it at: https:
 //github.com/soracyberteam
+L
